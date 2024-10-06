@@ -13,11 +13,11 @@ El proyecto consiste en implementar un sistema de comentarios dinámico en una p
 <ul>
     <li>💬 <b>Formulario de Comentarios Dinámico:</b> Un formulario donde el usuario escribirá su nombre y comentario. Los comentarios se enviarán al servidor sin necesidad de recargar la página utilizando AJAX. Una vez enviado, el comentario aparecerá automáticamente en la página sin que esta se recargue.</li>
     
-    <li>📂 <b>Almacenamiento en Base de Datos (MySQL):</b> Los comentarios y el nombre de usuario se almacenarán en una tabla de base de datos. La base de datos tendrá una única tabla que almacenará el nombre del usuario, el comentario y la fecha en que se realizó el comentario.</li>
+<li>📂 <b>Almacenamiento en Base de Datos (MySQL):</b> Los comentarios y el nombre de usuario se almacenarán en una tabla de base de datos. La base de datos tendrá una única tabla que almacenará el nombre del usuario, el comentario y la fecha en que se realizó el comentario. </li>
     
-    <li>🔄 <b>Recuperación de Comentarios:</b> Al cargar la página, todos los comentarios previos se cargarán desde la base de datos y se mostrarán en la página web, junto con el nombre de quien los hizo. Los nuevos comentarios aparecerán automáticamente al ser enviados.</li>
+<li>🔄 <b>Recuperación de Comentarios:</b> Al cargar la página, todos los comentarios previos se cargarán desde la base de datos y se mostrarán en la página web, junto con el nombre de quien los hizo. Los nuevos comentarios aparecerán automáticamente al ser enviados.</li>
     
-    <li>🚀 <b>Visualización de Comentarios en Tiempo Real:</b> Los nuevos comentarios se mostrarán inmediatamente en la página mediante AJAX, sin necesidad de recargar la página.</li>
+<li>🚀 <b>Visualización de Comentarios en Tiempo Real:</b> Los nuevos comentarios se mostrarán inmediatamente en la página mediante AJAX, sin necesidad de recargar la página.</li>
 </ul>
 
 ---
