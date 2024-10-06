@@ -11,7 +11,7 @@ El proyecto consiste en implementar un sistema de comentarios dinámico en una p
 ## <span style="color:#2c3e50;">Requisitos del sistema</span>
 
 <ul>
-    <li>💬 <b>Formulario de Comentarios Dinámico:</b> Un formulario donde el usuario escribirá su nombre y comentario. Los comentarios se enviarán al servidor sin necesidad de recargar la página utilizando AJAX. Una vez enviado, el comentario aparecerá automáticamente en la página sin que esta se recargue.</li>
+<li>💬 <b>Formulario de Comentarios Dinámico:</b> Un formulario donde el usuario escribirá su nombre y comentario. Los comentarios se enviarán al servidor sin necesidad de recargar la página utilizando AJAX. Una vez enviado, el comentario aparecerá automáticamente en la página sin que esta se recargue.</li>
     
 <li>📂 <b>Almacenamiento en Base de Datos (MySQL):</b> Los comentarios y el nombre de usuario se almacenarán en una tabla de base de datos. La base de datos tendrá una única tabla que almacenará el nombre del usuario, el comentario y la fecha en que se realizó el comentario. </li>
     
@@ -22,7 +22,7 @@ El proyecto consiste en implementar un sistema de comentarios dinámico en una p
 
 ---
 
-## <span style="color:#2c3e50;">Tecnologías a Usar</span>
+## <span style="color:#2c3e50;">Tecnologías utilizadas</span>
 
 ```html
 - HTML: Para la estructura básica del formulario y la visualización de comentarios.
